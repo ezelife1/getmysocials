@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://getmysocials.co.uk/sitemap.xml
